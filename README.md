@@ -19,7 +19,7 @@ A cybersecurity-focused tool for analyzing volatile memory (RAM) and detecting s
 ## ▶️ Setup
 
 ```bash
-git clone <your-repo>
+git clone Sunnysaini2003/ram-forensics-tool
 cd ram-forensics-tool
 python -m venv venv
 venv\Scripts\activate
