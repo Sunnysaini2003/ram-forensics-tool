@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 RAM Memory Forensics Analyzer
 
 A cybersecurity-focused tool for analyzing volatile memory (RAM) and detecting suspicious system activity in real time.
@@ -30,3 +31,6 @@ streamlit run app/app.py
 ## ⚠️ Disclaimer
 
 This is a simulated forensic tool for educational purposes only.
+=======
+# ram-forensics-tool
+>>>>>>> a1308380115ef20bd62dbdc2cdebf52ae59e0678
